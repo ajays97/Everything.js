@@ -28,7 +28,7 @@ twitter_username: ajays97
 github_username: ajays97
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: hacker
 plugins:
   - jekyll-feed
 # Exclude from processing.
