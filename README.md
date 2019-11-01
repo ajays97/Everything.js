@@ -1873,7 +1873,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [codemirror/CodeMirror-v1](https://github.com/codemirror/CodeMirror-v1) - An editable-iframe based code editor in JavaScript. See https://github.com/marijnh/CodeMirror for the currently maintained version
 * [ModelN/sDashboard](https://github.com/ModelN/sDashboard) - A simple & light weight dashboard framework in javascript
 * [kovacsv/JSModeler](https://github.com/kovacsv/JSModeler) - A JavaScript framework to create and visualize 3D models.
-* [aemkei/fishbone.js](https://github.com/aemkei/fishbone.js) - A super lightweight (½kb) JavaScript library with automatic method chaining, automatic context binding, event support and simple inheritance. c-{{{-<
+* [aemkei/fishbone.js](https://github.com/aemkei/fishbone.js) - A super lightweight (½kb) JavaScript library with automatic method chaining, automatic context binding, event support and simple inheritance.
 * [jrburke/requirejs](https://github.com/jrburke/requirejs) - A file and module loader for JavaScript
 * [jaredreich/notie.js](https://github.com/jaredreich/notie.js) - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies.
 * [cyclejs/cycle-core](https://github.com/cyclejs/cycle-core) - A fully reactive JavaScript framework for Human-Computer Interaction
