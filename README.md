@@ -17,7 +17,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 * [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 * [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-* [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag
+* [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the 'canvas' tag
 * [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 * [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 * [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
