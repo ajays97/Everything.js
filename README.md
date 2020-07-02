@@ -2529,7 +2529,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [scripted-editor/scripted](https://github.com/scripted-editor/scripted) - The Scripted code editor
 
 
-### Why Web Developers should learn Vue.js in 2019
+### Why Web Developers should learn Vue.js in 2020
 
 #### Here are some of the powerful reasons for you to learn Vue as a JavaScript developer.
 
